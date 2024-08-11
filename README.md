@@ -1,4 +1,3 @@
-# Internship_2023
 # Custom Components
 
 This repository contains a collection of machine-learning components for various tasks.
